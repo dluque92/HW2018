@@ -5,140 +5,80 @@
             "publisher":"DC Comics", 
             "alter_ego":"Bruce Wayne",
             "first_appearance":"Detective Comics #27",
-            "characters":"Bruce Wayne"
+            "characters":"Bruce Wayne",
+            "picture":"https://pbs.twimg.com/profile_images/874661809139073025/X8yzIhNy_400x400.jpg"
         },
         {
             "superhero":"Superman", 
             "publisher":"DC Comics", 
             "alter_ego":"Kal-El",
             "first_appearance":"Action Comics #1",
-            "characters":"Kal-El"
+            "characters":"Kal-El",
+            "picture":"http://sagapodcast.com/blog/wp-content/uploads/2017/10/1507678327_featured.jpeg"
         },
         {
             "superhero":"Flash", 
             "publisher":"DC Comics", 
             "alter_ego":"Jay Garrick",
             "first_appearance":"Flash Comics #1",
-            "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen"
+            "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
+            "picture":"https://http2.mlstatic.com/vinilos-adhesivos-decorativos-flash-D_NQ_NP_6625-MCO5088239916_092013-F.jpg"
         },
         {
             "superhero":"Green Lantern", 
             "publisher":"DC Comics", 
             "alter_ego":"Alan Scott",
             "first_appearance":"All-American Comics #16",
-            "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+            "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+            "picture":"https://pbs.twimg.com/profile_images/948848897379610624/d_gWCqCg_400x400.jpg"
         },
         {
             "superhero":"Green Arrow", 
             "publisher":"DC Comics", 
             "alter_ego":"Oliver Queen",
             "first_appearance":"More Fun Comics #73",
-            "characters":"Oliver Queen"
+            "characters":"Oliver Queen",
+            "picture":"http://cdn.breathecast.com/data/images/full/24130/arrow.png?w=600"
         },
         {
             "superhero":"Wonder Woman", 
             "publisher":"DC Comics", 
             "alter_ego":"Princess Diana",
             "first_appearance":"All Star Comics #8",
-            "characters":"Princess Diana"
-        },
-        {
-            "superhero":"Martian Manhunter", 
-            "publisher":"DC Comics", 
-            "alter_ego":"J'onn J'onzz",
-            "first_appearance":"Detective Comics #225",
-            "characters":"Martian Manhunter"
+            "characters":"Princess Diana",
+            "picture":"https://media1.popsugar-assets.com/files/thumbor/52knp8Vkwzpt-jeQsjFSaCZCJu4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/23/760/n/1922283/addurlcK0Dp5/i/Why-Wasnt-Wonder-Woman-Nominated-Oscar.jpg"
         },
         {
             "superhero":"Robin/Nightwing", 
             "publisher":"DC Comics", 
             "alter_ego":"Dick Grayson",
             "first_appearance":"Detective Comics #38",
-            "characters":"Dick Grayson"
-        },
-        {
-            "superhero":"Blue Beetle", 
-            "publisher":"DC Comics", 
-            "alter_ego":"Dan Garret",
-            "first_appearance":"Mystery Men Comics #1",
-            "characters":"Dan Garret, Ted Kord, Jaime Reyes"
-        },
-        {
-            "superhero":"Black Canary", 
-            "publisher":"DC Comics", 
-            "alter_ego":"Dinah Drake",
-            "first_appearance":"Flash Comics #86",
-            "characters":"Dinah Drake, Dinah Lance"
+            "characters":"Dick Grayson",
+            "picture":"https://i.pinimg.com/originals/87/11/39/8711391fdcb403d776ff1fc317ff2c2d.jpg"
         },
         {
             "superhero":"Spider Man", 
             "publisher":"Marvel Comics", 
             "alter_ego":"Peter Parker",
             "first_appearance":"Amazing Fantasy #15",
-            "characters":"Peter Parker"
+            "characters":"Peter Parker",
+            "picture":"https://pbs.twimg.com/profile_images/847820097821581312/gpfF5-xH_400x400.jpg"
         },
         {
             "superhero":"Captain America", 
             "publisher":"Marvel Comics", 
             "alter_ego":"Steve Rogers",
             "first_appearance":"Captain America Comics #1",
-            "characters":"Steve Rogers"
+            "characters":"Steve Rogers",
+            "picture":"https://i0.wp.com/www.sopitas.com/wp-content/uploads/2016/05/captain-america.jpg?fit=400%2C400"
         },
         {
             "superhero":"Iron Man", 
             "publisher":"Marvel Comics", 
             "alter_ego":"Tony Stark",
             "first_appearance":"Tales of Suspense #39",
-            "characters":"Tony Stark"
-        },
-        {
-            "superhero":"Thor", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Thor Odinson",
-            "first_appearance":"Journey into Myster #83",
-            "characters":"Thor Odinson"
-        },
-        {
-            "superhero":"Hulk", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Bruce Banner",
-            "first_appearance":"The Incredible Hulk #1",
-            "characters":"Bruce Banner"
-        },
-        {
-            "superhero":"Wolverine", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"James Howlett",
-            "first_appearance":"The Incredible Hulk #180",
-            "characters":"James Howlett"
-        },
-        {
-            "superhero":"Daredevil", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Matthew Michael Murdock",
-            "first_appearance":"Daredevil #1",
-            "characters":"Matthew Michael Murdock"
-        },
-        {
-            "superhero":"Hawkeye", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Clinton Francis Barton",
-            "first_appearance":"Tales of Suspense #57",
-            "characters":"Clinton Francis Barton"
-        },
-        {
-            "superhero":"Cyclops", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Scott Summers",
-            "first_appearance":"X-Men #1",
-            "characters":"Scott Summers"
-        },
-        {
-            "superhero":"Silver Surfer", 
-            "publisher":"Marvel Comics", 
-            "alter_ego":"Norrin Radd",
-            "first_appearance":"The Fantastic Four #48",
-            "characters":"Norrin Radd"
+            "characters":"Tony Stark",
+            "picture":"https://i.pinimg.com/736x/fe/d8/f0/fed8f0f5aeb597744c0f3d10ae8c7910--modern-art-art-posters.jpg"
         }
     ]
 }
